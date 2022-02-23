@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stimluus [sic] orthodoxus, sive Goadus redivivus A disputation partly thological, partly metaphysical, concerning the necessity and contingency of events in the world, in respect of Gods eternal decree. Written above twenty years since by that reverend and learned divine, Thomas Goad, doctor of divinity, and rector of Hadleigh in Suffolk.</title>
+            <author>Goad, Thomas, 1576-1638.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42882</idno>
+            <idno type="STC">Wing G904</idno>
+            <idno type="STC">ESTC R216465</idno>
+            <idno type="EEBO-CITATION">99828196</idno>
+            <idno type="PROQUEST">99828196</idno>
+            <idno type="VID">32623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stimluus [sic] orthodoxus, sive Goadus redivivus A disputation partly thological, partly metaphysical, concerning the necessity and contingency of events in the world, in respect of Gods eternal decree. Written above twenty years since by that reverend and learned divine, Thomas Goad, doctor of divinity, and rector of Hadleigh in Suffolk.</title>
+                  <author>Goad, Thomas, 1576-1638.</author>
+               </titleStmt>
+               <extent>[4], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Leak, at the Crown in Fleet-street, between tvvo Temple Gates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes advertisement at end.</note>
+                  <note>Running title reads: A disputation concerning necessity and contingency of events.</note>
+                  <note>Reproduction of the original in the Christ College Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Predestination --  Early works to 1800.</term>
+               <term>Free will and determinism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32623:1" rendition="simple:additions"/>
+            <p>
+               <hi>STIMLVVS ORTHODOXVS;</hi> Sive GOADUS <hi>REDIVIV<g ref="char:V">Ʋ</g>S.</hi> A DISPUTATION Partly <hi>Theological,</hi> partly <hi>Metaphyſical,</hi> con<g ref="char:EOLhyphen"/>cerning the <hi>Neceſſity</hi> and <hi>Contingency</hi> of <hi>Events</hi> in the World, in reſpect of God's <hi>Eternal Decree.</hi> Written above twenty years ſince by that Reverend and Learned Divine, <hi>THOMAS GOAD,</hi> Doctor of Divinity, and Rector of <hi>Hadleigh</hi> in <hi>Suffolk.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Leak,</hi> at the <hi>Crown</hi> in <hi>Fleet-ſtreet,</hi> between the tvvo <hi>Temple</hi> Gates. 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32623:2"/>
+            <pb facs="tcp:32623:2"/>
+            <head>To the <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Piece which I here propoſe to thy view, was the <hi>onely Remain</hi> (that I know of) of that <hi>Reve<g ref="char:EOLhyphen"/>rend Divine,</hi> whoſe name is prefixed to it. A Work certainly worth two or three hours time to peruſe. It came to my hands by buying ſome of the Books of his deceaſed <hi>Amanuenſis.</hi> I need to make no <hi>Encomium</hi> either of the <hi>Author,</hi> or the <hi>Work;</hi> the <hi>one</hi> was very well known to, and is ſtill remembred by <hi>ſome;</hi> and the <hi>worth</hi> of the <hi>other</hi> needs not beg our Commendation. This our <hi>Re<g ref="char:EOLhyphen"/>verend</hi> Author was one of the moſt eminent Divines at the Synod of <hi>Dort,</hi> when the ſubject matter of this enſuing Diſputation, and matters of the like nature, amongſt other controverted Points, were in conteſt. Whether our Author was <hi>then</hi> of that judgment, which he declares in <hi>this Diſputation,</hi> I am not certain. However, if his <hi>after</hi> thoughts (which <hi>commonly</hi> are the<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>beſt</hi>) inclined him to the truth, and ſwayed his belief, we have reaſon to bleſs the <hi>God</hi> of <hi>Truth</hi> for the diſcovery. And I heartily wiſh, that all men, who are intangled in the briars of theſe prickly Diſputations, (as our Re<g ref="char:EOLhyphen"/>verend Author calls them) would lay aſide all <hi>prejudice,</hi> and ſuf<g ref="char:EOLhyphen"/>fer their judgments to be <hi>raviſhed</hi> to the embracing of <hi>Truth</hi> by the argumentative <hi>allurements</hi> of Scripture and Rea on. Thou wilt find the <hi>ſingular</hi> uſe of this enſuing <hi>Piece</hi> in affording thee light <hi>to,</hi> and carrying thee <hi>through</hi> thoſe obſcure intricacies controverted betwixt the <hi>Remonſtrants</hi> and <hi>Contra-Remonſtrants.</hi> And that it may be of this ſingular uſe and benefit, is the hearty prayer of</p>
+            <closer>
+               <signed>Thy Friend and Servant in Chriſt, <hi>J. G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:32623:3"/>
+            <pb n="1" facs="tcp:32623:3"/>
+            <head>A DISPUTATION, <hi>Partly</hi> Theological, <hi>partly</hi> Metaphyſical, <hi>concerning the</hi> Neceſſity <hi>and</hi> Contingency <hi>of</hi> Events <hi>in the World, in reſpect of God's</hi> Eternal Decrees.</head>
+            <p>
+               <label>The Sum of the controverſie is this.</label>
+            </p>
+            <p n="1">1. <seg rend="decorInit">W</seg>HETHER or no all things that ever have or ſhall come to paſs in the world, have been, or ſhall be effected <hi>neceſſarily,</hi> in reſpect of an <hi>irreſiſtable Decree,</hi> by which God hath everla<g ref="char:EOLhyphen"/>ſtingly <hi>determined,</hi> that they ſhould <hi>in<g ref="char:EOLhyphen"/>evitably</hi> come to paſs?</p>
+            <p n="2">2. Whether or no many things have not been done <hi>contingently,</hi> or after ſuch a middle manner between <hi>impoſſibility</hi> of being, and <hi>neceſſity</hi> of being, that ſome things which have been might as well not have been, and many things which have not been might as well have been, for ought God hath decreed to the contrary?</p>
+            <p>An happy compoſing of this intricate Controverſie will be of excellent uſe, not onely in guiding us ſafe through the briers of theſe prickly Diſputations of <hi>Predeſtination, Free-will,</hi> the <hi>Cauſe of ſin,</hi> &amp;c. (which at this day have ſet <hi>Protestants, Papiſts, Lutherans, Arminians, Puritans,</hi> together by the ears) but over and above in eaſing us of many ſcruples and perplexing caſes, which daily ariſe in our minds, concerning God's <hi>Special</hi> Decrees, and <hi>particular</hi> Providence, in reſpect of the paſſages of our life.</p>
+            <p>But the ſingular uſes of this Diſputation will beſt appear when
+<pb n="226" facs="tcp:32623:4"/>it is finiſhed; and thereſore without any further Preface, I be<g ref="char:EOLhyphen"/>take my ſelf unto it, purpoſing to carry ſuch an equal eye to bre<g ref="char:EOLhyphen"/>vity and perſpicuity, that the Reader ſhall have no juſt cauſe to ſay, that I am either obſcure or tedious.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Opin. </seg>1</label> I have already divided the main Queſtion into two particu<g ref="char:EOLhyphen"/>lar <hi>Queries.</hi> Many Divines compleatly Reverend, both for their knowledge and practice of Religion, (and therefore deſervedly of precious eſteem in the <hi>Reformed</hi> Churches) have ſubſcribed aſſirmatively to the firſt <hi>Quaerie;</hi> maintaining, that whatſoever any creature doth, <hi>Man</hi> or <hi>Beast, Plants</hi> or <hi>Inanimate</hi> Elements and <hi>Meteors;</hi> God from all eternity hath <hi>decreed,</hi> that they ſhould <hi>neceſſarily</hi> do it; ſo that a man doth not ſo much as ſpit without a Decree: yea, they ſay, that there falleth not ſo much as a <hi>drop</hi> of rain, or ariſeth a <hi>blaſt</hi> of wind, <hi>ſine ſpeciali Dei juſſu.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Opin. </seg>2</label> Contrariwiſe, ſome others of as good (though perhaps not of ſo great) a name as they, both for their <hi>Learning</hi> and love of <hi>Orthodox</hi> Religion, have ſubſcribed <hi>affirmatively</hi> to the <hi>ſecond;</hi> teaching, that as God in his <hi>wiſdom</hi> hath ordered, that ſome things are <hi>impoſſible</hi> and cannot be; ſome things <hi>neceſſary,</hi> and cannot but be; ſo alſo hath he <hi>poiſed</hi> ſome things in ſuch an equal <hi>poſſibility</hi> of being or not being, and left it to his creatures <hi>choice</hi> to turn the <hi>ſcale,</hi> that in reſpect of him they fall out <hi>contingently;</hi> it being as poſſible for his creatures to have <hi>omitted</hi> them, as to have <hi>done</hi> them.</p>
+            <p>I have a good while <hi>halted</hi> between theſe two opinions, I have <hi>Sceptically</hi> hovered over them, to ſee where I were beſt to light. Sometimes I have ſent out my aſſent like <hi>Noah</hi>'s Dove, but ſhe miſliking her footing, ſpeedily withdrew her ſelf back again, till at length ſhe finding better entertainment amongſt this <hi>ſecond</hi> company, ſhe hath returned now at laſt with an <hi>Olive</hi> branch in her mouth, with that <hi>emblem</hi> of peace, Uniting my diſtractions.</p>
+            <p>The Arguments by which <hi>Truth</hi> firſt courted, and at laſt <hi>ra<g ref="char:EOLhyphen"/>viſhed</hi> my aſſent, are thoſe which both <hi>confirm</hi> the ſecond, and <hi>confute</hi> the firſt opinion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> The firſt manifeſtly diſcovers an <hi>Heatheniſh</hi> Error, lurking <hi>implicitely</hi> in the <hi>oppoſite</hi> opinion: Our Adverſaries indeed do diſallow it <hi>explicitly,</hi> and I know they heartily miſlike it; but it
+<pb n="3" facs="tcp:32623:4"/>will too <hi>evidently</hi> appear, that if that error be <hi>Paganiſm,</hi> their opinion is little better, which I prove thus; It was the conceit of the antient <hi>Stoicks,</hi> that all things were governed and brought to paſſe by an inevitable <hi>Deſtiny,</hi> all things falling out by a <hi>fatall</hi> neceſſity, in ſpight of men and (according to the addition of <hi>Poets</hi>) of gods alſo. Now do not our <hi>Opp ſites</hi> in this <hi>Controverſie</hi> impoſe a <hi>fatal</hi> Neceſſity on all things? yea, they go further in this point than ſome <hi>Stoicks;</hi> for (as it may be collected out of ſome of their writings) though <hi>they</hi> ſubjected the main <hi>Events</hi> and ends to irreſiſtable <hi>Deſtiny,</hi> yet they ſuppoſed the <hi>means</hi> (by which a man might, though vainly, endeavour to <hi>croſſe</hi> thoſe ends) <hi>arbitrary</hi> in man's <hi>choice.</hi> But our <hi>Oppoſites</hi> impoſe a <hi>ne<g ref="char:EOLhyphen"/>ceſſity</hi> on all things whatſoever, not onely upon <hi>Ends</hi> and <hi>events,</hi> but alſo upon the <hi>means.</hi> For example, according to their Do<g ref="char:EOLhyphen"/>ctrine, God hath not onely <hi>decreed</hi> that I ſhall, or that I ſhall not eſcape this <hi>infection,</hi> but he hath alſo <hi>decreed</hi> that I ſhall, or I ſhall not <hi>uſe</hi> the <hi>means</hi> to eſcape it. So that all the <hi>Abſurdities</hi> that dog the <hi>Stoical</hi> dream of <hi>fatal</hi> neceſſity at the heels, are <hi>in<g ref="char:EOLhyphen"/>ſeparable</hi> attendants of this Opinion. For I may not onely ſay, If I ſhall <hi>die</hi> of the <hi>Infection,</hi> I ſhall; if I ſhall <hi>not</hi> die, I ſhall <hi>not;</hi> and therefore I need not uſe <hi>means</hi> to avoid it: But alſo, if I muſt uſe <hi>means,</hi> I muſt; if I muſt not, I muſt not: Seeing Gods de<g ref="char:EOLhyphen"/>cree <hi>neceſſitateth</hi> as much to <hi>uſe</hi> or <hi>omit</hi> the <hi>means,</hi> as to obtain or loſe the <hi>end.</hi> For if their opinion be true, all things whatſo<g ref="char:EOLhyphen"/>ever, <hi>end</hi> or <hi>means</hi> of little or great moment, come to paſſe <hi>neceſſarily</hi> and <hi>unavoidably,</hi> by reaſon of Gods eternal <hi>Decree.</hi>
+            </p>
+            <p>Here they have two <hi>Evaſions.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Evaſio. </seg>1</label> The firſt is this, Albeit (ſay they) God hath moſt certainly <hi>determined</hi> what ſhall, or what ſhall not be done concerning us, yet his <hi>Decree</hi> is hid from us, and we muſt uſe <hi>lawful</hi> and <hi>ordinary</hi> means, for the obtaining of ſuch and ſuch good <hi>Ends,</hi> keeping on the <hi>ordinary</hi> courſe which he hath <hi>revealed</hi> to us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Confutatio. </seg>
+               </label> See the vanity of this ſhift; our <hi>Oppoſites</hi> teach, that whatſo<g ref="char:EOLhyphen"/>ever God hath <hi>decreed</hi> ſhall be <hi>done,</hi> and whatſoever is <hi>omitted</hi> ſhall be <hi>undone.</hi> If therefore God hath determined that we ſhould not uſe ſuch and ſuch <hi>means,</hi> it is <hi>impoſſible</hi> for us to uſe them; if he hath <hi>decreed</hi> that we ſhould, it is <hi>impoſſible</hi> that we ſhould <hi>omit</hi> them. And therefore it is more than <hi>ridiculous</hi> to ſay, that although God in his <hi>ſecret</hi> will hath determined, that
+<pb n="4" facs="tcp:32623:5"/>we ſhould not do ſuch a thing, yet we are to do it, ſeeing his <hi>de<g ref="char:EOLhyphen"/>cree,</hi> though it be <hi>ſecret,</hi> yet it will have its <hi>effect,</hi> and it is abſo<g ref="char:EOLhyphen"/>lutely <hi>impoſſible</hi> we ſhould do that, which God hath <hi>determined</hi> we ſhall not do.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Evaſion </seg>2</label> Howſoever (ſay our Oppoſites) our opinion is far from <hi>Stoi<g ref="char:EOLhyphen"/>ciſm,</hi> for the <hi>Stoicks</hi> thought, that all things came <hi>inevitably</hi> to paſs, by reaſon of an indiſſoluble <hi>Chain</hi> and Connexion of <hi>na<g ref="char:EOLhyphen"/>tural</hi> cauſes: but we teach, that all <hi>events</hi> are <hi>irreſiſtably</hi> neceſſa<g ref="char:EOLhyphen"/>ry, by reaſon of Gods everlaſting <hi>decrees,</hi> and His <hi>Omnipotency</hi> daily executing them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">ConFutation. </seg>
+               </label> This reaſon is ſo poor a one, and yet ſo much made on by ſome worthy men, that I am more troubled to wonder at it, than to confute it; yet that I may ſatisfie it diſtinctly, I will di<g ref="char:EOLhyphen"/>vide the opinion of the <hi>Stolcks</hi> into two particular <hi>Tenets.</hi>
+            </p>
+            <p n="1">1. They hold, that all things come to paſs <hi>inevitably.</hi>
+            </p>
+            <p n="2">2. They thought the reaſon of this <hi>inevitableneſſe</hi> of events to be an unchangeable <hi>connexion</hi> of <hi>natural</hi> cauſes.</p>
+            <p>Our Oppoſites ſtiſly maintain the former of theſe <hi>Tenets.</hi> Now let the Reader obſerve, that the moſt <hi>prodigious</hi> abſurdities accompanying this <hi>Stoical</hi> error, follow the firſt part of their opinion, though ſequeſtred from the ſecond. For if all things come to paſs <hi>unavoidably,</hi> what need I care what I do? yea, if I ſhall care, I ſhall care whether I will or no; and a thouſand the like horridconceits follow the opinion of the <hi>necesſity</hi> of events, whatſoever we make to be the <hi>cauſe</hi> of this neceſſity.</p>
+            <p>It is a great point of <hi>Turkiſh</hi> Divinity at this day, that all things are done <hi>unavoidably,</hi> and they with our Oppoſites make Gods <hi>will</hi> to be the cauſe of this unavoidableneſs; and therefore they judge of <hi>Gods pleaſure</hi> or <hi>diſpleaſure</hi> by the <hi>event.</hi> Yet there is no <hi>Chriſtian</hi> but abhorreth this <hi>Turciſm,</hi> and gives it no better entertainment than <hi>Anathema Mararatha.</hi>
+            </p>
+            <p>Its too apparent therefore, that albeit our Adverſaries are true <hi>Chriſtians,</hi> yet in this point their opinion is guilty by reaſon of its conſequence, both of <hi>Stoiciſm</hi> and <hi>Turciſm.</hi>
+            </p>
+            <p>Again, if we conſider the ſecond part of the <hi>Stoicks</hi> opinion, we ſhall perceive, that the opinion which we confute cannot be minced, but that it will be compleat <hi>Stoiciſm.</hi> The <hi>Stoicks</hi> thought the <hi>connexion</hi> of cauſes to be the cauſe of the <hi>necesſity</hi> of <hi>events,</hi> its true; but what did they think to be the <hi>connexion</hi> of
+<pb n="5" facs="tcp:32623:5"/>cauſes? doubtleſs the eternal Laws of <hi>Nature,</hi> which they ſup<g ref="char:EOLhyphen"/>poſed to be a <hi>Deity.</hi> It is very probable they thought the <hi>Fates</hi> to be but <hi>Natures</hi> Laws, but whatſoever they meant by the <hi>Fates,</hi> its evident they made their <hi>decrees</hi> to be the cauſe of the <hi>connexion</hi> of cauſes. How often read we both in <hi>Philoſophers</hi> and <hi>Poets</hi> of <hi>Fatorum Decreta, Parcarum Leges, &amp;c.</hi> Yea, the word <hi>Fatum</hi> it ſelf is as much as a <hi>Decree;</hi> as <hi>Edictum</hi> from <hi>Edicere,</hi> ſo <hi>Fatum</hi> from <hi>Fari. Quid aliud eſt Fatum quam id quod 'Deus de unoquoqut fatur?</hi> ſaith <hi>Minutius.</hi> Well then, to apply. Do not our Adverſaries in this point ſuppoſe an <hi>inviolable</hi> linking of all things together, one <hi>neceſſarily</hi> following in the neck of another? Do they not make the <hi>cauſe</hi> of this linking to be Gods irreſiſtable decree? Do they not defend compleat <hi>Stoiciſm?</hi> What part of <hi>Stoiciſm</hi> do they diſclaim? Do they not maintain <hi>inevitable</hi> ne<g ref="char:EOLhyphen"/>ceſſity, Do they not teach an <hi>indiſſoluble</hi> connexion of all things? Do they not believe divine <hi>decrees</hi> to be the <hi>cauſe</hi> of this con<g ref="char:EOLhyphen"/>nexion? Certainly they muſt needs confeſs themſelves <hi>Stoicks</hi> in this point, unleſs we will give them leave to grant the <hi>premi<g ref="char:EOLhyphen"/>ſes,</hi> and deny the <hi>concluſion.</hi> I know the <hi>Stoicks</hi> had miſ-conceits concerning the <hi>Deities,</hi> (as accounting thoſe to be <hi>Deities</hi> which are not) whoſe <hi>decrees</hi> they made the <hi>cauſes</hi> of all things; but they were the common errors of <hi>Paganiſm,</hi> and are beſide the point in hand: And truly theſe ſet aſide, I ſee not wherein our Adverſaries differ from the <hi>Stoicks.</hi> I have proſecuted this Ar<g ref="char:EOLhyphen"/>gument more copiouſly, becauſe it includeth many others, I mean, all thoſe which Scripture or Reaſon furniſh us with, againſt the error of the <hi>Stoicks,</hi> and they are many; for I think verily, there are few opinions which have a greater retinue of ridiculous and erroneous conſequences, than this of the un a<g ref="char:EOLhyphen"/>voidable <hi>neceſsity</hi> of <hi>events:</hi> Some of them may make one <hi>laugh,</hi> and ſome of them may make one <hi>tremble.</hi> I omit the former, becauſe they are obvious to every mans conceit, and I would not willingly make ſport of ſo ſerious a matter. Of the laſt ſort I will ſpecifie one in a ſecond Argument.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> That opinion, which being admitted maketh God the <hi>Author</hi> of <hi>ſin,</hi> is groſs and erroneous, that I may ſay no worſe, but ſo (I ſpeak it with <hi>horror</hi>) doth the Opinion of our Oppoſites. I know they are renowned <hi>Chriſtians,</hi> and as they abhor <hi>Stoical</hi> errors, ſo they hold this damnalbe doctrine, (which is worſe
+<pb n="6" facs="tcp:32623:6"/>
+               <note place="margin" type="runSum">See this Argu<g ref="char:EOLhyphen"/>ment confirm<g ref="char:EOLhyphen"/>ed in the An<g ref="char:EOLhyphen"/>ſwer to the 4th Objection.</note> than ever any <hi>Heretick</hi> held) which transformeth <hi>God</hi> into a <hi>Devil,</hi> to be moſt <hi>accurſed:</hi> yet ſo the caſe ſtandeth, that as the error of <hi>fatal neceſsity,</hi> ſo this of the <hi>cauſe of ſin,</hi> fatally followeth their opinion; which I prove thus.</p>
+            <p>They teach, That nothing is done in the world, not can be done, but what God hath <hi>decreed</hi> to be done. Now it's too cer<g ref="char:EOLhyphen"/>tain, that three quarters of the things which are done in the world are <hi>ſins,</hi> therefore according to this opinion, God is the <hi>principal</hi> cauſe of ſins, <hi>Devils</hi> and <hi>Men</hi> are but His <hi>Inſtruments.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Evaſio. </seg>
+               </label> The uſual Anſwer is, That God is the cauſe of all the <hi>actions</hi> that are <hi>ſinful,</hi> but not of the <hi>ſinfulneſs</hi> of the actions; of all our <hi>works,</hi> but not of our <hi>obliquities</hi> and imperfections: As one that rides upon a halting Jade is the cauſe of his <hi>metion,</hi> and yet not of his <hi>halting.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Confutatio. </seg>
+               </label> Its a hard caſe when they have but one <hi>frivolous</hi> diſtinction to keep God from <hi>ſinning:</hi> Might I here (without wandring) diſ<g ref="char:EOLhyphen"/>courſe of the nature of ſin, I could prove <hi>ſin</hi> it ſelf to be an <hi>acti<g ref="char:EOLhyphen"/>on,</hi> and confute this groundleſs diſtinction that way; but I will keep my ſelf as much to the purpoſe as I can, and ſo anſwer it thus, or rather confute it.</p>
+            <p>That which is a <hi>principal</hi> cauſe of any action, is a cauſe of thoſe <hi>events</hi> which accompany that action <hi>neceſſarily.</hi> This Rule is moſt certainly true.<note place="margin">Concomi<g ref="char:EOLhyphen"/>tants.</note> Therefore if God by His decrees do force us to thoſe actions which cannot be done without ſin, God Him<g ref="char:EOLhyphen"/>ſelf (I am afraid to rehearſe it) muſt needs be guilty of ſin. For example. If God decreed that <hi>Adam</hi> ſhould <hi>unavoidably</hi> eat the <hi>forbidden</hi> fruit, ſeeing the <hi>eating</hi> of the fruit which he had <hi>for<g ref="char:EOLhyphen"/>bidden</hi> muſt needs be with a groſs <hi>obliquity;</hi> I do not ſee how this diſtinction will juſtifie God: for <hi>Adam</hi> ſinned becauſe he <hi>ate</hi> the fruit that was forbidden; but they ſay, God <hi>decreed</hi> that he ſhould eat the fruit which was forbidden, <hi>neceſſarily</hi> and <hi>un<g ref="char:EOLhyphen"/>avoidably.</hi> The concluſion is too <hi>blaſphemous</hi> to be often re<g ref="char:EOLhyphen"/>peated.</p>
+            <p>The Reader may ſee how well that common diſtinction holdeth water; yea, if this <hi>nicety</hi> were ſound, man himſelf might prove, that he committed no <hi>murder</hi> though he <hi>ſtabbed</hi> the dead party to the heart; for at his arraignment he might tell the <hi>Judge,</hi> that hedid indeed thruſt his <hi>dagger</hi> into his heart, but it was not that which took away his life, but the <hi>extinction</hi> of his
+<pb n="7" facs="tcp:32623:6"/>
+               <hi>natural</hi> heat and <hi>vital</hi> ſpirits. Who ſeeth not the wild <hi>frenzie</hi> of him who ſhould make this <hi>Apology,</hi> yet this is all our Adver<g ref="char:EOLhyphen"/>ſaries ſay for God. They ſay, His <hi>decree</hi> was the <hi>cauſe</hi> that <hi>Adam</hi> took the <hi>fruit,</hi> and put it into his mouth, and ate that which he had commanded he ſhould not eat. Yet they ſay, He was not the cauſe of the tranſgreſſion of the commandment.</p>
+            <p>The example of the <hi>halting</hi> Jade is a meer <hi>impertinency;</hi> for ſuppoſe it were (as it is not) appliable to us, who halt <hi>naturally;</hi> yet <hi>Adam,</hi> before this action, was <hi>ſound;</hi> and therefore God <hi>ne<g ref="char:EOLhyphen"/>cesſitating</hi> him to ſuch an inconveniency, dealt with him as if one ſhould drive a <hi>luſty Nag</hi> into rough paſſages, where he muſt needs break his leggs. Neither is it (as I ſaid) appliable unto us the <hi>lame</hi> poſterity of <hi>Adam,</hi> for the who rideth an horſe that was <hi>lame</hi> before, although he be not a cauſe of the <hi>impotency</hi> which he findeth in the horſe already, yet in urging him to motion, he is now a <hi>cauſe</hi> of the <hi>actual</hi> imperfection in the motion, and ſo perhaps a cauſe of encreaſing the impotency for the future, though he were not the cauſe of his lameneſs, yet he is of his limping at that time. Let the horſe ſtand ſtill, and ſee whether he will halt or no. Marry if the horſe go of himſelf, then the <hi>Rider</hi> is no cauſe of his halting, and ſo we may ſay, that all our <hi>haltings</hi> are from our ſelves without any <hi>instigation</hi> from God.</p>
+            <p>I know our Oppoſites have another ſhiſt, teaching, that God uſeth to <hi>puniſh</hi> one ſin by making us to <hi>commit</hi> another; ſo that although we <hi>ſin,</hi> He doth but <hi>puniſh.</hi>
+            </p>
+            <p>Albeit I do not believe this to be true, as 'tis commonly ex<g ref="char:EOLhyphen"/>pounded, yet I abſtain at this time from a farther examination of it, becauſe it weakens not my Argument about <hi>Adam;</hi> for his ſin was the firſt that ever he committed, and the <hi>original</hi> of all that ever followed; and therefore if Gods <hi>decree</hi> were the <hi>cauſe</hi> that he <hi>ate</hi> the <hi>forbidden</hi> fruit, as our Adverſaries teach, its ap<g ref="char:EOLhyphen"/>parent whom they make the <hi>Author of all ſin.</hi> Theſe two Argu<g ref="char:EOLhyphen"/>ments well ſcanned, are ſufficient to make any (not fore-ſtalled with pre-conceits) to be afraid of that opinion which believeth all things to come to paſs <hi>neceſſarily,</hi> by reaſon of Gods <hi>irreſiſta<g ref="char:EOLhyphen"/>ble</hi> decree, and therefore they ſhall ſuffice for the confutation of it.</p>
+            <p>Moreover, ſeeing it is clogged with ſuch <hi>monſtrous</hi> conſe<g ref="char:EOLhyphen"/>quences,
+<pb n="8" facs="tcp:32623:7"/>me-thinks our opinion ſhould be far more <hi>amiable,</hi> which giveth no countenance to ſuch hideous mis-ſhapen er<g ref="char:EOLhyphen"/>rors, as it will appear by the proceſs of this diſputation.</p>
+            <p>Now I proceed to the confirmation of our opinion, con<g ref="char:EOLhyphen"/>cerning the <hi>contingency</hi> of ſome <hi>events</hi> in reſpect of God, by two Arguments more.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> The firſt is this, That God hath decreed that all his creatures <hi>ordinarily,</hi> and for the moſt part, ſhould work according to their ſeveral <hi>kinds</hi> and <hi>endowments,</hi> by which he in the Creation di<g ref="char:EOLhyphen"/>ſtinguiſhed them: For illuſtration they may be ranked into <hi>three</hi> ſeveral forms.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In the loweſt ſtand the meer <hi>natural</hi> Agents, <hi>inanimate</hi> and <hi>ſenſleſs</hi> creatures; to theſe God hath given certain <hi>inſtincts</hi> and <hi>inclinations,</hi> by which they are <hi>determinately</hi> ſwayed to theſe or theſe certain <hi>effects</hi> and <hi>operations,</hi> unleſs they are <hi>outwardly</hi> hin<g ref="char:EOLhyphen"/>dered: for <hi>heavy</hi> bodies cannot chuſe but <hi>deſcend, fire</hi> cannot chuſe but <hi>burn,</hi> &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> In the ſecond ſtand the <hi>Serſitive</hi> creatures, four-footed <hi>beaſts, fouls,</hi> and <hi>fiſhes;</hi> to theſe God hath given <hi>ſenſe</hi> and <hi>knowledge</hi> to diſcern what is good for their <hi>nature,</hi> and what is bad; and a<g ref="char:EOLhyphen"/>mongſt diverſe goods to prefer that which is beſt. He hath gi<g ref="char:EOLhyphen"/>ven them alſo a <hi>free appetite</hi> or a kind of <hi>ſenſitive will,</hi> by which they may either <hi>freely</hi> proſecute, or avoid ſuch objects as they like or miſlike; not <hi>determinately</hi> tyed to this or that certain <hi>ope<g ref="char:EOLhyphen"/>ration,</hi> as the other were. A <hi>ſtone</hi> cannot chooſe but deſcend, but a <hi>beast</hi> may as well go up hill as down, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> In the upper Forme are <hi>Men,</hi> reaſonable Creatures, whom God hath made more <hi>voluntary</hi> than the other, by giving them greater <hi>freedom</hi> of choice, and preſenting unto their more ele<g ref="char:EOLhyphen"/>vated knowledge a great <hi>variety</hi> of objects. Now then, without doubt, God diſtinguiſhed thus his creatures in <hi>abilities</hi> and <hi>fa<g ref="char:EOLhyphen"/>culties,</hi> that they might <hi>operate</hi> in their ſeveral <hi>kinds,</hi> that the <hi>natural</hi> agents might work <hi>naturally,</hi> the <hi>voluntary voluntarily,</hi> as that eloquent French-man <hi>Du Vain</hi> hath well explained this point. The truth of all this no man will deny <hi>explicitely:</hi> Well then, let them hearken to the conſequences of this truth, ſo common both in <hi>Logick</hi> and <hi>Metaphyſicks,</hi> among thoſe who handle of <hi>natural</hi> and <hi>voluntary</hi> cauſes. If God hath <hi>decreed</hi> that many things ſhould be done <hi>voluntarily</hi> by his creatures,
+<pb n="9" facs="tcp:32623:7"/>then alſo hath he decreed that many things ſhould be done <hi>con<g ref="char:EOLhyphen"/>tingently,</hi> in reſpect of him; but the firſt is granted truth, there<g ref="char:EOLhyphen"/>fore the ſecond ſhould be. The connexion I prove thus. All things are done <hi>contingently</hi> in reſpect of God, which for ought he hath decreed might with as much <hi>poſſibility</hi> not be as be: But all things which are done by the crea ures <hi>voluntarily,</hi> may as well not be done, as done; therefore if he hath decreed that many things ſhould be done <hi>voluntarily,</hi> He hath alſo decreed that they ſhould be done <hi>contingently.</hi> The <hi>Minor</hi> is evident, becauſe if the creatures may not as well <hi>omit</hi> them as <hi>do</hi> them, they do them not <hi>voluntarily</hi> but <hi>neceſſarily.</hi>
+            </p>
+            <p>This Argument both confirms and explains our Opinion, ſhewing how and why many things come to paſs <hi>contingently</hi> in reſpect of God; yea, it maketh it queſtionleſs, that God hath decreed that many things ſhould be done <hi>contingently,</hi> or after ſuch a <hi>reſiſtable</hi> manner, that they might without <hi>fruſtrating</hi> His decree have been <hi>life</hi> undone: yea, we ſee now, that <hi>contingency</hi> it ſelf is <hi>neceſſary</hi> in reſpect of Gods will, who will have many things done <hi>voluntarily.</hi> Otherwiſe to what purpoſe did God give his creatures <hi>wills,</hi> if he will not ſuffer them to uſe them?</p>
+            <p>See again the inconveniencies of the former opinion, which confoundeth all ſorts of creatures, and makes a <hi>man</hi> to operate with no more <hi>freedom</hi> than a <hi>ſtock</hi> or <hi>ſtone.</hi> For according to our Oppoſites, I eat, or drink, or walk with as much <hi>neceſſity,</hi> as <hi>Lead</hi> ſinketh down. God hath decreed that that ſhould ſink, and therefore it muſt; and ſo God hath <hi>decreed</hi> that I maſt walk a <hi>mile,</hi> and therefore I muſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Evaſion. </seg>1</label> Here they have a ſtarting hole, but it is ſo poor a one, that it doth not relieve but diſgrace them. They ſay, That Gods <hi>decree</hi> doth not <hi>compel</hi> any mans <hi>will</hi> to any thing, that he ſhould do ſuch a thing whether he will or no; but he ſo diſpoſeth and worketh it, that it ſhall deſire that which God would have done. And therefore, they ſay, Man hath uſe of his <hi>will,</hi> becauſe what<g ref="char:EOLhyphen"/>ſoever he doth, though <hi>neceſſitated</hi> to it by God, yet he doth it <hi>willingly.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Confutation. </seg>1</label> This <hi>ſlim-ſlam</hi> would move any mans patience, but I will be ſerious. The prerogative of a <hi>voluntary</hi> Agent conſiſteth not in doing that which it deſireth to do, or rather in deſiring to do that which it doth, (for according to them, man deſireth
+<pb n="10" facs="tcp:32623:8"/>the thing becauſe it is to be done, yet it is not to be done becauſe he deſireth) in <hi>freedom</hi> from <hi>coaction</hi> and <hi>violence;</hi> but in a liberty of <hi>choice</hi> to do or not to do this or that, and ſo in <hi>freedom</hi> from the <hi>neceſſity</hi> of <hi>immutability.</hi> So that ſtill for all this <hi>ſhift,</hi> they make <hi>man</hi> no more <hi>voluntary</hi> than a <hi>ſtone.</hi> A <hi>ſtone</hi> hath a <hi>natural</hi> propenſion or kind of <hi>appetite</hi> to fall downward, yet becauſe this appetite is reſtrained <hi>neceſſarily</hi> to this <hi>term,</hi> ſo that the <hi>ſtone</hi> muſt <hi>needs</hi> fall down, it cannot be ſaid to deſcend <hi>voluntarily,</hi> in any propriety of ſpeech. Is not this juſt a mans caſe accor<g ref="char:EOLhyphen"/>ding to them? A man drinks, they grant he doth it <hi>voluntarily;</hi> yet they ſay, his <hi>will</hi> is ſo <hi>reſtrained</hi> by Gods <hi>decree</hi> to <hi>this</hi> action, that it was not <hi>poſſible</hi> for him to <hi>omit</hi> it. What difference is there now betwixt the <hi>will</hi> of a <hi>man</hi> and the <hi>will</hi> of a <hi>ſtone,</hi> onely that God employeth a man in more actions, which altereth not the caſe? Surely if this be true, it was no wonder <hi>Deucalion</hi> and <hi>Pyrrha</hi> got ſtones turned into men ſo faſt.</p>
+            <p>This Argument doth ſo intangle our oppoſites, that although in the Queſtion about <hi>particular</hi> providence they are peremp<g ref="char:EOLhyphen"/>tory for the <hi>neceſſity</hi> of all <hi>events</hi> in reſpect of <hi>God;</hi> yet when they come to the queſtion about <hi>Free-will,</hi> and more particu<g ref="char:EOLhyphen"/>larly in <hi>free-will</hi> about <hi>natural</hi> matters, as walking, ſleeping, riding, &amp;c. they ſpeak ſo off and on, that one may plainly per<g ref="char:EOLhyphen"/>ceive how they have a <hi>wolf</hi> by the ears: Sometimes they do yield <hi>Free-will</hi> in ſuch things, not conſidering how they <hi>contra<g ref="char:EOLhyphen"/>dict</hi> what they ſaid before about <hi>particular</hi> Providence; ſome<g ref="char:EOLhyphen"/>times they yield it, they ſay, not ſo much becauſe they yield it to be true, as becauſe they will not contend about ſuch <hi>petty</hi> mat<g ref="char:EOLhyphen"/>ters; a very ſleeveleſs put off! ſometimes they ſtiffly deny it, but they are unwilling or unable to produce any Arguments worth a ruſh.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> That opinion which makes Gods <hi>knowledge</hi> abſolutely <hi>infi<g ref="char:EOLhyphen"/>nite,</hi> and moſt glorifieth His <hi>omniſciency,</hi> muſt needs be better <hi>Divinity,</hi> than that which ſuppoſeth by its conſequence Gods knowledge to be but <hi>finite.</hi> Now our opinion doth the firſt, our oppoſites the ſecond; therefore. The <hi>Minor</hi> Propoſition I ju<g ref="char:EOLhyphen"/>ſtifie thus. An abſolute <hi>infinity</hi> in knowledge muſt be either in reſpect of the <hi>number</hi> of objects, or in reſpect of the <hi>manner</hi> of comprehending them. Now according to their opinion, in theſe reſpects Gods knowledge is but <hi>finite. Ergo.</hi>
+            </p>
+            <pb n="11" facs="tcp:32623:8"/>
+            <p>For the firſt reſpect, to ſpeak exactly, it cannot make know<g ref="char:EOLhyphen"/>ledge compleatly <hi>infinite;</hi> for ſeeing there cannot be an exact <hi>infinite</hi> number of <hi>Objects,</hi> ſeeing that all things that ever were, or ever ſhall be, cannot be truly <hi>infinite</hi> in number; it is im<g ref="char:EOLhyphen"/>poſſible that any knowledge whatſoever ſhould be properly termed <hi>infinite</hi> in this reſpect. Yea, ſeeing the vaſteſt number, and moſt incomprehenſible to our mortal <hi>Arithmetick,</hi> may in it ſelf be doubled and trebled, it is an infallible truth, that any knowledge in this regard may be trebled alſo, and yet remain <hi>finite,</hi> if we ſpeak not <hi>vulgarly</hi> or unlargely, but <hi>Metaphyſical</hi> exquiſitions. Well, come to the ſecond Reſpect, here alſo our Oppoſites do much <hi>debate</hi> Gods knowledge, making it but <hi>finite,</hi> and that not of the largeſt ſort; for while they teach, that God hath <hi>decreed</hi> how all things ſhall <hi>infallibly</hi> come to paſs, they require indeed of God an <hi>infinite</hi> power, whereby to <hi>execute</hi> his decrees, but ſeeing all things ſhall be effected as He hath decreed they ſhould, a <hi>finite</hi> knowledge may well ſerve the turn. What wonder is it if God <hi>fore-know</hi> what will be done, if he can but <hi>remember</hi> His own <hi>decrees?</hi> It requireth indeed a <hi>large memory,</hi> but not an <hi>infinite knowledge.</hi>
+            </p>
+            <p>Suppoſe a man had but that power to bring to paſs what he determined, it would be no ſtrange matter if he could <hi>foretell</hi> future <hi>events:</hi> He would make a hard ſhift with his <hi>Hypomne<g ref="char:EOLhyphen"/>mata,</hi> Regiſters, and Records, and the Art of <hi>Memory,</hi> but he would remember what he had <hi>contrived</hi> ſhould come to paſs, in ſuch and ſuch a Country.</p>
+            <p>Wherefore in the ſecond Reſpect, <hi>viz.</hi> in the <hi>manner</hi> of com<g ref="char:EOLhyphen"/>prehending of things, they make the Divine <hi>Praeſcience</hi> to be but <hi>finite,</hi> whilſt they teach, that God knoweth how all things ſhall come to paſs; becauſe the ſame <hi>knowledge</hi> is the cauſe, by ver<g ref="char:EOLhyphen"/>tue of <hi>decrees,</hi> of whatſoever ſhall be effected in the world.</p>
+            <p>Now that our opinion attributeth unto God a knowledge exactly <hi>infinite,</hi> and makes His <hi>Praeſcience</hi> more wnoderful, it will plainly appear. God, ſay we, <hi>ab aeterno,</hi> hath ordered that ſuch <hi>Agents</hi> as he created <hi>voluntary,</hi> ſhould have a double <hi>liberty</hi> in their operations, <hi>viz.</hi> a <hi>liberty of contradiction,</hi> to do, or not do; as a <hi>Painter</hi> may chooſe whether he will work or no: and a <hi>liberty of contrariety,</hi> to do a thing after this or that manner; as a
+<pb n="12" facs="tcp:32623:9"/>
+               <hi>Painter</hi> may uſe what <hi>colours,</hi> in what <hi>quantity,</hi> after what <hi>fa<g ref="char:EOLhyphen"/>ſhion,</hi> he pleaſeth.</p>
+            <p>Now then, God leaving to His creatures <hi>free liberty,</hi> to work or not to work, after this or that manner, ſo that ſo any <hi>neceſſity</hi> impoſed upon their actions by Him; whatſoever they <hi>omit,</hi> was as poſſible to be done, as what they did: And yet from all eter<g ref="char:EOLhyphen"/>nity <hi>fore-knowing</hi> whatſoever his creatures would do, or not do, his <hi>fore-knowledge</hi> muſt needs be <hi>infinite,</hi> and moſt admira<g ref="char:EOLhyphen"/>ble. <hi>Infinite,</hi> I ſay, not in reſpect of the <hi>number</hi> of objects, for ſo, as I ſaid before, no knowledge can be <hi>infinite:</hi> but in reſpect of the <hi>omnipotent</hi> and boundleſs <hi>manner</hi> of actual comprehending thoſe things with an <hi>infallible</hi> fore-ſight, which in reſpect of God were <hi>contingent,</hi> their not being being as poſſible as their being. And indeed this <hi>fore-ſight</hi> of future <hi>contingents,</hi> is the true <hi>character</hi> and Royal <hi>prerogative</hi> of Divine knowledge: and <hi>Ergo</hi> in the 41 of <hi>Eſay,</hi> God upbraideth the <hi>Pagan</hi> Deities with this priviledge peculiar to Himſelf, though juglingly pretended by them in their lying <hi>Oracles, verſ.</hi> 21. The Lord biddeth them produce <hi>Gnatzumotheken,</hi> the ſtrongeſt Arguments by which they could prove themſelves Gods; and in the next verſe he particularizeth, and thrice bids them <hi>tell, if they can, what ſhall happen in the times to come.</hi> Its worth the obſerving, how that there was never any ſort of <hi>Diviners</hi> Artificial (I ſpeak not of <hi>Devils, Witches, Gypſies,</hi> and ſuch palpable <hi>Impoſtors</hi>) that un<g ref="char:EOLhyphen"/>dertook to fore-tell future <hi>contingents:</hi> for if you prove thoſe things which <hi>Aſtrologers</hi> and <hi>Phyſiognomers</hi> undertake to fore<g ref="char:EOLhyphen"/>tell, to be meer <hi>contingent</hi> in reſpect of the <hi>Horoſcope</hi> or <hi>Com<g ref="char:EOLhyphen"/>plexion,</hi> and no way to depend on them as <hi>natural</hi> cauſes; you have proved their Arts to be but <hi>Impoſtures.</hi> How much then do our Oppoſites diſhonor God in this caſe, making the great <hi>mi<g ref="char:EOLhyphen"/>racle</hi> of his <hi>foreſight</hi> of <hi>future contingents</hi> to be as much as no<g ref="char:EOLhyphen"/>thing? ſeeing they ſay, that albeit they are <hi>contingent</hi> in reſpect of us, yet they are <hi>neceſſary</hi> in reſpect of Him. When any man hath anſwered any of theſe four Arguments, then will I change my opinion. In the mean time I proceed to the vindicating of it from ſuch exceptions and objections, as our enemies in this caſe make againſt it. The diſſipating of thoſe miſts wherewith they endeavour to obſcure this opinion, will not onely clear the
+<pb n="13" facs="tcp:32623:9"/>truth of it, for belief; but alſo the ſenſe of it, for underſtanding.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> Firſt, they ſay, That while we avoid their <hi>Stoiciſm,</hi> as we term it, we fall into flat <hi>Epicuriſm;</hi> for while we make ſo many things in the world to fall out according to the inconſtant bent of <hi>vo<g ref="char:EOLhyphen"/>luntary</hi> Agents, we <hi>Deifie Chance,</hi> and make <hi>Fortune</hi> a <hi>goddeſs;</hi> we do in effect deny Gods <hi>providence,</hi> which they ſay makes all things come to paſs according to a moſt wiſe and conſtant me<g ref="char:EOLhyphen"/>thod.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I will be as forward as any man to <hi>Anathematize</hi> him, who<g ref="char:EOLhyphen"/>ſoever he be, who holdeth any thing to fall out <hi>fortuito</hi> in re<g ref="char:EOLhyphen"/>ſpect of God: I will make it moſt evident, that our opinion makes no <hi>Chance</hi> in reſpect of God, and moſt ſweetly illuſtrates Gods <hi>Providence.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, There is a vaſt difference between <hi>Contingency</hi> and <hi>Ca<g ref="char:EOLhyphen"/>ſuality. Contingency</hi> is an equal <hi>poſſibility</hi> of being or not be<g ref="char:EOLhyphen"/>ing: <hi>Caſuality</hi> is the coming to paſs of an event <hi>ex improviſo,</hi> beſide the fore-thought, as I may ſay of the thing. Now it is our aſſertion, that many things fall out <hi>contingently</hi> in reſpect of God, becauſe he impoſed no <hi>neceſsity</hi> upon their being, but left them to the pleaſure of the inferior cauſes, that they might as well not have been, as been. But we ſay withall, that no<g ref="char:EOLhyphen"/>thing falleth out <hi>accidentally</hi> or <hi>caſually</hi> in reſpect of God, be<g ref="char:EOLhyphen"/>cauſe nothing cometh to paſs without his moſt certain and un<g ref="char:EOLhyphen"/>erring <hi>foreſight;</hi> he knowing from all eternity what his crea<g ref="char:EOLhyphen"/>tures would do, though he left it to their pleaſure to do what they liſt.</p>
+            <p>In <hi>events</hi> there is a great difference between <hi>Contingency</hi> and <hi>Caſuality</hi> of events in reſpect of men; for moſt things we do, we do <hi>contingently,</hi> we being not bound by any <hi>inevitable ne<g ref="char:EOLhyphen"/>ceſsity</hi> to do them; yet as long as we do them upon certain <hi>perſuaſive</hi> reaſons, for certain <hi>ends,</hi> we do them not by <hi>chance.</hi> The ſame <hi>events</hi> yet are not after the ſame manner <hi>contin<g ref="char:EOLhyphen"/>gent</hi> in reſpect of God, as they are in reſpect of us; for He out of the Prerogative of His <hi>Deity</hi> fore-knoweth them; but we, by reaſon of our <hi>mortality,</hi> cannot have <hi>infallible</hi> foreſight of them; and what <hi>foreſight</hi> we have, is in a very little diſtance.</p>
+            <p>And indeed, if this point be <hi>punctually</hi> canvaſed, we ſhall perceive, that in that ſame proportion we have any <hi>knowledge</hi>
+               <pb n="14" facs="tcp:32623:10"/>of them, they are not <hi>contingent</hi> but <hi>neceſſary:</hi> for every thing, ſo far forth as it is in <hi>exiſtence,</hi> or in near preparation for it, is <hi>neceſſary.</hi>
+            </p>
+            <p>
+               <hi>Contingency</hi> is the middle point between <hi>neceſsity</hi> and <hi>impoſsi<g ref="char:EOLhyphen"/>bility</hi> of being; and therefore ſo much as any thing inclineth to <hi>exiſtence</hi> it is <hi>neceſſary.</hi> The want or neglect of the diſtinction between <hi>contingency</hi> and <hi>caſualty,</hi>
+               <note place="margin">☞</note> hath been a great cauſe of the error we confute: for our Oppoſites ſtill taking <hi>fortuito</hi> and <hi>con<g ref="char:EOLhyphen"/>tingenter</hi> for <hi>Synonyma,</hi> becauſe they would have nothing <hi>ca<g ref="char:EOLhyphen"/>ſual</hi> in reſpect of God, therefore they would have every thing <hi>neceſſary;</hi> not diſcerning the middle path which we walk in be<g ref="char:EOLhyphen"/>tween <hi>Epicuriſm</hi> and <hi>Stoiciſm.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Concerning Gods <hi>Providence</hi> we teach, that although accor<g ref="char:EOLhyphen"/>ding to that <hi>ordinary</hi> courſe (which we call <hi>nature</hi>) which he hath preſcribed for the operation of his creatures in the <hi>decree</hi> of Creation, many things fall out according to the <hi>free choice</hi> of <hi>voluntary Agents,</hi> no way by Him <hi>neceſſitated;</hi> yet God is ſtill buſie with a <hi>double</hi> providence. The <hi>firſt</hi> is <hi>univerſal;</hi> by this, whatſoever <hi>natural</hi> Agents do <hi>contingently,</hi> He <hi>fore-ſeeth</hi> moſt clearly, and <hi>ordereth</hi> it moſt wiſely, according to His <hi>glory,</hi> the <hi>preſervation</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſe,</hi> and <hi>good of His creatures.</hi> The <hi>ſe<g ref="char:EOLhyphen"/>cond</hi> is <hi>particular;</hi> by this He puts in oft-times a <hi>miraculous</hi> finger into ſuch <hi>contingent</hi> buſineſs as reſpects his <hi>Church,</hi> and oft-times ſo worketh the heart of the <hi>voluntary</hi> Agent, that ſometimes he doth that which (if he had been left alone to him<g ref="char:EOLhyphen"/>ſelf) he would not have done; and ſometimes is ſecretly diverted from the doing of that, which otherwiſe he would moſt <hi>willingly,</hi> and (in all likelihood) could moſt <hi>eaſily</hi> have done.</p>
+            <p>And here our <hi>Oppoſites</hi> may pleaſe to obſerve, how our opi<g ref="char:EOLhyphen"/>nion is ſo far from denying <hi>particular</hi> Providence, that it onely maintaineth a Providence <hi>properly</hi> termed <hi>Particular:</hi> for that <hi>particular</hi> Providence which our Oppoſites ſo much talk of, if it be well looked into, will appear to be in no better ſenſe <hi>particu<g ref="char:EOLhyphen"/>lar,</hi> than the <hi>Roman</hi> Church is <hi>univerſal.</hi>
+            </p>
+            <p>They ſay, That there is not any <hi>numerical</hi> act performed by any creature, without an <hi>eternal</hi> decree from God; this they call <hi>particular</hi> providence. Alas! this is the <hi>general</hi> which concern<g ref="char:EOLhyphen"/>eth all the actions performed by all things, or at leaſt one mixt of <hi>general</hi> and <hi>particular.</hi> As for example, Becauſe it raineth to
+<pb n="15" facs="tcp:32623:10"/>day, God ſo ordering that it ſhould, is it any ſenſe to ſay, This rain was by the <hi>particular</hi> providence of God, unleſſe we eſpied <hi>extraordinary</hi> matter in it? We therefore call that <hi>univerſal</hi> providence, whereby God directeth whatſoever His creatures do, according to their <hi>natural</hi> propenſions, for the preſervation and good of the <hi>Univerſe.</hi> We term that <hi>particular</hi> or <hi>ſpeciall</hi> providence, whereby God inter<g ref="char:EOLhyphen"/>poſing his <hi>extraordinary</hi> power amongſt the <hi>contingent</hi> af<g ref="char:EOLhyphen"/>fairs of <hi>Common-wealths,</hi> or <hi>private</hi> men, ſometimes by ſenſible <hi>miracles</hi> and <hi>prodigies,</hi> ſometimes by His <hi>ſecret</hi> om<g ref="char:EOLhyphen"/>nipotency, ſenſible onely in the <hi>Event,</hi> manifeſteth His <hi>Mercy</hi> or <hi>Justice,</hi> to His own <hi>Glory,</hi> or good of His <hi>Church.</hi>
+            </p>
+            <p>This is properly termed <hi>ſpecial</hi> providence, and in this ſenſe it is taken by <hi>La Voſino</hi> the <hi>Italian,</hi> in his <hi>Tract, De par<g ref="char:EOLhyphen"/>ticulari Providentiâ;</hi> and by thoſe who have wrote of that ſub<g ref="char:EOLhyphen"/>ject. Well then, I will now ſpecifie my faith concerning Gods <hi>Providence.</hi>
+            </p>
+            <p>Firſt, it is very probable, that petty <hi>trivial</hi> matters, ſuch as are <hi>indifferent,</hi> not onely in reſpect of <hi>themſelves,</hi> but alſo of their <hi>conſequences,</hi> fall out altogether <hi>contingently,</hi> without any <hi>neceſsitating</hi> decree. Theſe matters of leſſer moment are of three ſorts.</p>
+            <p n="1">1. The toys and trifling vanities of <hi>voluntary</hi> Agents, ſuch as the <hi>Italians</hi> term <hi>Badalucii,</hi> or <hi>Ballocametti:</hi> What a compa<g ref="char:EOLhyphen"/>ny of idle geſtures and ſporting tricks uſe we every day, which doubtleſs for ought God hath decreed, we might have as eaſily omitted?</p>
+            <p n="2">2. The petty conſequences of the <hi>main</hi> actions of <hi>natural</hi> Agents: for example, though the main drift and ſcope of the operations of the <hi>Elements</hi> and <hi>Meteors</hi> be according to the method <hi>eternally</hi> preſcribed them by God; yet ſome <hi>parti<g ref="char:EOLhyphen"/>cular</hi> events accompanying their operations, ſome <hi>circum<g ref="char:EOLhyphen"/>ſtances</hi> queſtionleſs were not prefixed by a <hi>particular</hi> decree; as now and then it hapneth to rain when the Sun ſhineth, I cannot believe that there's any <hi>ſpecial</hi> decree concerning this.</p>
+            <p>Hear I would have the Reader obſerve how theſe <hi>events</hi> are not ſo properly called <hi>contingent,</hi> as thoſe other are; for
+<pb n="16" facs="tcp:32623:11"/>they were ſwayed by no <hi>decree</hi> either <hi>general</hi> or <hi>ſpecial,</hi> from the middle point between <hi>neceſsity</hi> and <hi>impoſsibility</hi> of being. But theſe, though they are <hi>contingent</hi> in reſpect of a <hi>particular</hi> decree, and may as well not be as be, for ought God hath <hi>preciſely</hi> determined concerning them; yet in reſpect of the <hi>general</hi> method prefixed to <hi>natural</hi> Agents, they do neceſſarily come to paſs, becauſe their main of<g ref="char:EOLhyphen"/>fice cannot be performed without theſe circumſtances and conſequences.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The laſt ſort are mixed of the two former, and include all ſuch <hi>events</hi> as reſult from the <hi>contingent concourſe</hi> of <hi>na<g ref="char:EOLhyphen"/>tural</hi> and <hi>voluntary</hi> Agents; as when the wind bloweth off ones hat, &amp;c. to ſay that God <hi>particularly</hi> decreed ſuch tri<g ref="char:EOLhyphen"/>fles, I think it injurious to the <hi>Majeſty</hi> of His Determi<g ref="char:EOLhyphen"/>nations. But here by trifles I mean ſuch matters (as I ſaid before) which are <hi>indifferent,</hi> not onely in reſpect of themſelves, but alſo of their conſequences.</p>
+            <p>
+               <note place="margin">2ly.</note> I believe, that things of greateſt moment are done <hi>neceſſa<g ref="char:EOLhyphen"/>rily,</hi> by the <hi>immediate</hi> power of God, either by <hi>ſwaying</hi> men from their own proper inclinations, or by <hi>ſupernatural</hi> means quite croſſing their enterpriſes. So we read in the <hi>Scripture</hi> and <hi>Church-ſtories,</hi> how God hath ſometimes quite changed the hearts of men for ſome great purpoſe concerning his <hi>Church</hi> and <hi>glory.</hi>
+            </p>
+            <p>
+               <note place="margin">3ly.</note> I believe that the middle ſort of events in the world, ſuch as are neither <hi>trivial</hi> nor yet <hi>extraordinary,</hi> the <hi>ordinary</hi> ſeri<g ref="char:EOLhyphen"/>ous matters which concern <hi>Religion; Common-wealths,</hi> the <hi>temporal</hi> and <hi>ſpiritual</hi> good of private men, the preſerva<g ref="char:EOLhyphen"/>tion from confuſion, &amp;c. Of theſe, I ſay, my belief is, that though <hi>ordinarily</hi> men and unreaſonable Agents do things <hi>contingently,</hi> yet God doth ſo manage this <hi>contingency,</hi> daily and hourly interpoſing His power according to His <hi>Mercy</hi> or <hi>Juſtice,</hi> that very few matters of <hi>conſequence</hi> are meerly <hi>contingent.</hi> For example, Becauſe I ſee <hi>Marriage</hi> for the moſt part to be either a great <hi>curſe</hi> or a great <hi>bleſ<g ref="char:EOLhyphen"/>ſing</hi>
+               <note n="*" place="margin">This may ſo happen upon the <hi>post-fact.</hi>
+               </note>, I am ſo far perſwaded of the truth of the common ſaying, that I think that <hi>Marriages</hi> for the moſt part <hi>are made in heaven</hi>
+               <note n="*" place="margin">Sure <hi>Davids</hi> was nor, a Sam. 11.17.</note>, before they are on earth. Let a man di<g ref="char:EOLhyphen"/>ligently peruſe any ſtory, and he ſhall find many things
+<pb n="17" facs="tcp:32623:11"/>done <hi>ordinarily</hi> according to the <hi>natural</hi> bent of <hi>particular</hi> perſons, and ſo <hi>contingently</hi> in reſpect of God; and yet let him joyn all things done by all the <hi>Actors</hi> in the ſtory to<g ref="char:EOLhyphen"/>gether, let him accurately obſerve how one thing followeth upon another, he ſhall find, that ſtill at the laſt there will be ſomething from the <hi>finger</hi> of God manifeſting the glory either of His <hi>Mercy</hi> or <hi>Juſtice.</hi> If we read the Hiſtory of the <hi>Reformation;</hi> begun by <hi>Luther</hi> and other Divines of <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> we ſhall perceive many things done by the <hi>natural</hi> humors of men, by the guidance of <hi>Divine</hi> wiſdom made admirable furtherances of the <hi>Reformation.</hi> The like may be ſaid of <hi>Henry</hi> the 8th. his <hi>Marriage</hi> (which ſet moſt <hi>Uni<g ref="char:EOLhyphen"/>verſities</hi> in <hi>Christendom</hi> a Diſputing) and the diſſolution of <hi>Abbeys.</hi> The like indeed may be obſerved in any Hiſtory, eſpecially if it concern <hi>Religion</hi> or a <hi>Chriſtian</hi> Common<g ref="char:EOLhyphen"/>wealth; for I conceive that Gods <hi>Providence</hi> is more or leſs remarkable in a place proportionable to the profeſſion of <hi>Religion.</hi> Let a man but diligently obſerve the prime paſ<g ref="char:EOLhyphen"/>ſages of his own times, let him mark how the chief <hi>Actors</hi> in them do all things according to their <hi>particular</hi> bents and <hi>private</hi> humors; yet let him more the upſhot, he ſhall perceive, that there was ſome <hi>ſecret guide</hi> which directed all to God's glory, though men do what they liſt accor<g ref="char:EOLhyphen"/>ding to their own pleaſure. The beſt Demonſtration of this moſt uſefull and delightfull truth every man might beſt make to himſelf, if he would but ſeriouſly and circumſpect<g ref="char:EOLhyphen"/>ly conſider the whole courſe of his own life, and mark how (whatſoever he hath done out of the abſolute <hi>freedom</hi> of his choice) his actions have been turned and winded now and then <hi>contrary</hi> to his <hi>intent,</hi> now and then <hi>beyond</hi> it, now and then <hi>beſide</hi> it; ſometimes to his <hi>grief,</hi> ſometimes to his <hi>comfort,</hi> always to be examples of Gods <hi>Mercy,</hi> or His <hi>Juſtice;</hi> he will eaſily perceive, how excellently the Divine <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> worketh upon <hi>Contingencies.</hi>
+            </p>
+            <p>If men would be buſied upon ſuch contemplations, they would not ſhuffle away ſo many good hours with thoſe waking dreams of <hi>fantaſtick</hi> ſolitary diſcourſings, which <hi>Charron</hi> and others have wiſely taxed.</p>
+            <pb n="18" facs="tcp:32623:12"/>
+            <p>Here the Reader may ſee how I ſuppoſe ſome things <hi>ne<g ref="char:EOLhyphen"/>ceſſary,</hi> ſome things <hi>contingent,</hi> ſome things <hi>mixt,</hi> by reaſon of divers circumſtances of both kinds; by no means undertaking preciſely to <hi>determine</hi> how many things are done <hi>contingently,</hi> or how many <hi>neceſſarily,</hi> &amp;c.</p>
+            <p>Now as we have formerly ſhewed how our opinion doth moſt exactly Blazon the <hi>Divinity</hi> of Gods <hi>infinite knowledge,</hi> by which He <hi>ſimply</hi> knoweth all things; ſo alſo it doth moſt clearly ſet forth the honor of His <hi>active wiſdom,</hi> by which he <hi>governeth</hi> all things; for, to order all things in an harmo<g ref="char:EOLhyphen"/>nious concord to good, (whatſoever the confuſed diſtracted diſcord of <hi>choices</hi> in inferior cauſes produce) is a more glo<g ref="char:EOLhyphen"/>rious and ſuperlative act of wiſdom, than <hi>firſt</hi> to <hi>decree</hi> how all things ſhall be done according to <hi>certain platforms,</hi> and to ſee them effected <hi>according</hi> to them: Yea, this conceit (though it be <hi>Stoiciſm</hi> in it ſelf) yet it openeth a greater overture to <hi>Epicuriſm</hi> than ours; for <hi>Ep curus</hi> and his fellows believed there were gods, but they imagin'd that they incumbred not themſelves with the ordering of <hi>ſublunary</hi> matters, but ſuffered matters here below to go for the moſt part according to the <hi>natural and eter<g ref="char:EOLhyphen"/>nal cuſtoms.</hi> Even ſo, if according to the <hi>oppoſite</hi> Tenet, God hath <hi>ab aterno</hi> prefixed an <hi>irreſiſtible</hi> tenor and method agreeable to which all things ſhould for ever <hi>neceſſarily</hi> come to paſſe. God might <hi>ab aeterno</hi> alſo, from the ſame inſtant He made His Decrees, let all things alone (according to <hi>Epicurus</hi> his conceit)<note n="*" place="margin">
+                  <hi>For our Op<g ref="char:EOLhyphen"/>poſites ſay,</hi> Quae Deus de<g ref="char:EOLhyphen"/>crevit ſponte flu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt.</note> ſeeing all things muſt come orderly to paſs, by vertue of His <hi>Decree,</hi> though he ſlept all the while.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> But our Doctrine (they ſay) contradicteth the Scriptures; our <hi>Saviour</hi> telleth the Apoſtles, that <hi>the hairs of their head were numbred,</hi> that not ſo much as a contemptible <hi>Sparrow falleth without his Father.</hi> Therefore the pettieſt matters in the world are <hi>determined</hi> by God Himſelf.</p>
+            <p>I remember the Marginal Note indeed in the Proteſtant <hi>Italian</hi> Bible upon <hi>Matth.</hi> 10.29. upon theſe words, <hi>[Yet not one of them falleth to the ground without your Father]</hi> ſaith thus, <hi>[Che nou' intra venga it decreto ela volenta ſua, &amp;c.] i. e.</hi> But ſo that His decree and will came between: But this gloſs is impertinent. The meaning of the place is this, Not one of
+<pb n="19" facs="tcp:32623:12"/>them falleth without Gods <hi>privity</hi> and <hi>permiſſion.</hi> The ſcope of our Saviour was to <hi>comfort</hi> and <hi>encourage</hi> his Diſciples, whom he was now ſending abroad into the world <hi>as ſheep among wolves;</hi> to this purpoſe he tells them, that <hi>the hairs of their head were numbred, &amp;c.</hi> the number of them was known to God, without whoſe <hi>permiſſion</hi> they could not loſe one of them. That not ſo much as a <hi>Sparrow</hi> falleth without their <hi>Father,</hi> &amp;c <hi>i. e.</hi> without the <hi>knowledge</hi> and <hi>permiſſion</hi> of Him who was their loving Father: And therefore he bids them not to be afraid, ſeeing if ſuch trifles could not be without Gods <hi>permiſſion,</hi> doubtleſs God, who was their more <hi>ſpecial</hi> obſerver, would not ſuffer men to meddle with them, more than ſhould be for His glory and their good. So that it cannot without abſurdi<g ref="char:EOLhyphen"/>ty be hence concluded, that God hath made any <hi>ſpeciall decree</hi> concerning <hi>Sparrows;</hi> for, (as St. <hi>Paul</hi> ſaith) <hi>Doth God take care for Oxen?</hi> ſo ſay I, Doth God take care for <hi>Sparrows?</hi> Here it is worth the obſervation, that the Arguments (for the moſt part) which our <hi>Oppoſites</hi> produce for the <hi>neceſſity</hi> of all <hi>events,</hi> and <hi>their</hi> kind of <hi>particular</hi> providence, are ſuch which (as one ſaith) <hi>Aut nihil concludunt, aut nimium,</hi> conclude either not ſo much, or more than they would have them; being much like the garments which were made for the Moon, either too big or too little for their concluſions; for either they are drawn from <hi>particular</hi> examples, and prove nothing at all, (as when <hi>Calvin</hi> proveth that there ariſeth no wind without a <hi>ſpecial</hi> de<g ref="char:EOLhyphen"/>cree from God, becauſe he cauſed the <hi>South-wind</hi> to bring the <hi>Iſraelites Quails,</hi> and ſent the <hi>tempeſt</hi> which cauſed <hi>Jonas</hi> to be caſt into the Sea) or elſe they are deduced out of ſuch reaſons and Scriptures, which (as they handle them) prove God to be the <hi>Author of ſin,</hi> and ſo a great deal more than they are willing they ſhould.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> But our opinion may ſeem to patronize the proud error con<g ref="char:EOLhyphen"/>cerning <hi>Free-will;</hi> for if God doth not <hi>Neceſſitate</hi> our Actions, but leave them to our inclinations, ſo that it is in our power to work or not work; we have <hi>freedom</hi> of will to do or not to do, whatſoever we do <hi>contingently.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Solution. </seg>
+               </label> Theſe words <hi>[which we do contingently]</hi> are well put in; for we ſay many things are done <hi>contingently</hi> in reſpect of God, yet many we ſay are done by Gods <hi>ſpecial</hi> determination. But
+<pb n="20" facs="tcp:32623:13"/>'tis moſt certainly true, that good duties, properly ſo called, (to which we are tied <hi>pro hoc ſtatu</hi>) are never performed without <hi>choice</hi> and <hi>freedom.</hi> Which therefore (amongſt other <hi>priviledges</hi> of Chriſts purchaſing) are reſtored under the ſpiritual <hi>Jubilee</hi> of the Goſpel, and inſtated on us by the holy Ghoſt as one <hi>special</hi> part of our Redemption. <hi>If the Son make your free, then are you free indeed.</hi> And, <hi>Where the Spirit of the Lord is, there is liberty.</hi>
+            </p>
+            <p>In anſwer then to the Objection, I ſay, That, for our <hi>natural</hi> actions, as <hi>eating, walking,</hi> &amp;c. I believe that <hi>ordinarily</hi> we per<g ref="char:EOLhyphen"/>form them <hi>freely</hi> and <hi>contingently</hi> in reſpect of God. Likewiſe I doubt not, but as the antient Heathens <hi>Ariſtides, Socrates, Cato, Fabritius</hi>) ſo many now a days perform many things <hi>civilly</hi> and <hi>morally</hi> good, being left alone<note n="*" place="margin">I do not re<g ref="char:EOLhyphen"/>ject the opini<g ref="char:EOLhyphen"/>on of <hi>restrin<g ref="char:EOLhyphen"/>gent</hi> grace, if it be well ex<g ref="char:EOLhyphen"/>pounded.</note> to their <hi>contingent</hi> educations and complexions. But for matter of <hi>grace</hi> and <hi>ſal<g ref="char:EOLhyphen"/>vation,</hi> I confeſs, to the glory of God, that <hi>in us (being dead in ſins and treſpaſſes) dwelleth no good;</hi> That we cannot ſo much as <hi>think</hi> (much leſs do) any good, unleſs the holy Ghoſt giveth us the power <hi>both to will and to do</hi> it.</p>
+            <p>
+               <hi>Adam</hi> before his <hi>fall</hi>
+               <note n="*" place="margin">The oppo<g ref="char:EOLhyphen"/>ſite Tenet al<g ref="char:EOLhyphen"/>loweth not <hi>A<g ref="char:EOLhyphen"/>dam Free will</hi> in his inno<g ref="char:EOLhyphen"/>cency, as I could eaſily prove, and is partly affirm<g ref="char:EOLhyphen"/>ed already by the third Ar<g ref="char:EOLhyphen"/>gument.</note> was equally poiſed between <hi>perſeve<g ref="char:EOLhyphen"/>rance</hi> and <hi>defection;</hi> but he <hi>falling</hi> by the <hi>freedom</hi> of his choice, loſt thoſe perfections which made him <hi>free:</hi> ſo that if his po<g ref="char:EOLhyphen"/>ſterity do any thing <hi>truly</hi> good, it is from God, not from them<g ref="char:EOLhyphen"/>ſelves; whatſoever <hi>bad</hi> they do, it is from themſelves not from God.</p>
+            <p>Here it may be noted, that we may do many things <hi>contingent<g ref="char:EOLhyphen"/>ly</hi> in reſpect of God, which yet we do not <hi>freely</hi> but <hi>neceſſarily</hi> in reſpect of our ſelves; as our ſins are <hi>contingent</hi> in reſpect of Him, becauſe he never impoſed any <hi>neceſſity</hi> of ſinning upon us; yet they are <hi>neceſſary</hi> in reſpect of our ſelves, ſeeing we being <hi>left to our ſelves</hi> cannot but ſin. So many things which are <hi>contingent</hi> in reſpect of our nature, may be in ſome ſort <hi>neceſſary</hi> in reſpect of our <hi>perſons;</hi> as thoſe things which our <hi>complexions,</hi> or <hi>cuſtoms</hi> and <hi>habits</hi> neceſſitate us to: But this is an impertinency.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> They ſay moreover, that our opinion contradicteth both <hi>Scripture</hi> and <hi>Philoſophy.</hi>
+            </p>
+            <p n="1">1. For <hi>Scripture,</hi> it is ſaid, <hi>Act.</hi> 14. that <hi>in him we live, move, and have our being;</hi> by which words we are taught, that all our motions, of what kind ſoever, either <hi>natural</hi> or <hi>moral, vital</hi> or <hi>rational,</hi> are not onely guided; but alſo cauſed by God Himſelf.</p>
+            <pb n="21" facs="tcp:32623:13"/>
+            <p n="2">2. Both in <hi>Logick</hi> and <hi>Metaphyſicks</hi> there are divers Rules conſonant to this Scripture, as <hi>[Cauſa cauſae eſt etiam cauſa cauſa<g ref="char:EOLhyphen"/>ti: cauſa ſecunda non agit niſi meta à prim, &amp;c.]</hi> Therefore man doth no kind of thing but God is the <hi>firſt</hi> cauſe of it, and conſe<g ref="char:EOLhyphen"/>quently whatſoever we do, we do <hi>neceſſarily</hi> in reſpect of Him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This is one of the Arguments which proveth more than our Adverſaries would have them, and by theſe Rules have I for<g ref="char:EOLhyphen"/>merly in the ſecond Argument proved, that they make God <hi>the Author of ſin;</hi> for if <hi>cauſa cauſae</hi> be <hi>cauſa cauſati</hi> (as doubtleſs it is) while they make God the cauſe of all thoſe <hi>actions,</hi> which either are <hi>ſins,</hi> or the <hi>cauſes</hi> of <hi>ſins,</hi> queſtionleſs they make God (according to their own Argumentation) the <hi>cauſe of ſins.</hi> But they have a limitation for this Rule, and ſay, that it holdeth <hi>in cauſis eſſentialiter ſubordinatis,</hi> as they ſay, that God is the cauſe of all thoſe things which are <hi>eſſentially and diſtrictly</hi> done by our wills; but ſins proceeding from the <hi>depravation</hi> of our wills, are effects of a cauſe, not <hi>directly</hi> ſubordinate to God. The limita<g ref="char:EOLhyphen"/>tion is ſound, but not applicable to their inſtance; yea, the limi<g ref="char:EOLhyphen"/>tation it ſelf quite ſpoileth them: For 1. While <hi>Adam</hi>'s will was yet ſound, they teach, that God decreed that <hi>Adam</hi> ſhould <hi>eat the forbidden fruit;</hi> now at that time they cannot ſay, but that <hi>Adam</hi> was a cauſe <hi>eſſentially ſubordinate</hi> to God. 2. They teach, that God is a <hi>cauſe</hi> not onely of our <hi>actions,</hi> but alſo of our <hi>vo<g ref="char:EOLhyphen"/>litions,</hi> as I may ſay; then <hi>theſe</hi> being the cauſes of our ſins, are directly <hi>ſubordinate</hi> to him.</p>
+            <p n="3">3. Let us conſider not onely the <hi>ſubordination</hi> between <hi>God</hi> and our <hi>wills,</hi> but alſo between our <hi>actions</hi> and their <hi>moralities,</hi> and we ſhall perceive, that according to the <hi>abuſe</hi> of theſe Rules, they make God the cauſe of our ſins. For that Rule, <hi>Cauſa cauſae eſt cauſa cauſati,</hi> is infillibly true expounded thus, <hi>The cauſe of any effect, is the cauſe of all ſuch events as neceſſarily follow that effect.</hi>
+            </p>
+            <p>Now then, if (as they ſay) God be a <hi>neceſſary</hi> cauſe of all our <hi>particular</hi> actions, ſeeing our <hi>actions</hi> in reference to ſuch and ſuch <hi>objects</hi> muſt needs be <hi>ſinful,</hi> it is manifeſt what followeth. For example: Though to take money in <hi>general</hi> be no ſin, yet to take <hi>this</hi> or <hi>that</hi> money, being none of our <hi>own,</hi> is a ſin. Now then, if God be a <hi>cauſe</hi> of <hi>this</hi> action in reference to <hi>this</hi> object (as he is if he be the cauſe of this <hi>particular</hi> action) it is impoſſible their
+<pb n="22" facs="tcp:32623:14"/>Doctrine ſhould excuſe God from ſin. <hi>Eating,</hi> in reference to the <hi>forbidden</hi> fruit, was a <hi>ſin;</hi> but according to them, God was a <hi>prin<g ref="char:EOLhyphen"/>cipal</hi> cauſe of eating the <hi>forbidden fruit. Ergo.</hi>
+            </p>
+            <p>
+               <hi>Minor prob.</hi> They ſay he was the <hi>neceſſitating</hi> cauſe of this par<g ref="char:EOLhyphen"/>ticular action.</p>
+            <p>Eating was a <hi>natural</hi> action, the <hi>individuation</hi> of this eating by an <hi>unlawful</hi> object was a <hi>moral</hi> obliquity.</p>
+            <p>But God was the cauſe of this <hi>individual. Ergo.</hi>
+            </p>
+            <p>The like may be ſaid of all our <hi>ſinful actions. When I have drunk ſufficiently both for the neceſſity and comfort of nature, to drink a cup more is ſin.</hi> But our Oppoſites teach, that I cannot take up this ſuperfluous cup without Gods <hi>ſpeciall</hi> determination: <hi>Ergo.</hi>
+            </p>
+            <p>This Doctrine is enough to make ones hair ſtand an end, ma<g ref="char:EOLhyphen"/>king God (whatſoever they ſay) the <hi>cauſe</hi> not onely of our <hi>acti<g ref="char:EOLhyphen"/>ons,</hi> but alſo of our <hi>obliquities:</hi> for what are the <hi>obliquities</hi> of our <hi>actions,</hi> but the placing of them upon wrong <hi>objects?</hi> If therefore they make God the <hi>principal</hi> cauſe of all our <hi>particular</hi> actions, moſt of which are particularized by bad objects) what do theſe men make of God? But Recrimination is no anſwer.</p>
+            <p>Hitherto I have ſhewed (though perhaps without method, yet, I hope, not without profit) how our Oppoſites are wounded with their own weapons. Now I will take their weapons out of their hands, and teach them the right uſe of them, ſhewing how God is the <hi>cauſe of all things,</hi> onely not the cauſe of <hi>ſin:</hi> a cauſe of all good things, yet ſo as that many good things are <hi>contingent</hi> alſo.</p>
+            <p>We have ſhewed in the third Argument how God hath ordain<g ref="char:EOLhyphen"/>ed, that all ſorts of <hi>Inferior</hi> or <hi>ſecond cauſes</hi> ſhould work accord<g ref="char:EOLhyphen"/>ing to their proper kinds; that <hi>voluntary</hi> Agents ſhould work <hi>vo<g ref="char:EOLhyphen"/>luntarily,</hi> &amp;c. God then is the <hi>firſt cauſe</hi> that all things do work and that they do work in certain kinds: If ſo, then God is the cauſe that many things are done <hi>contingently,</hi> one of the chiefeſt ſorts of ſecond cauſes by this appointment working <hi>voluntarily,</hi> and therefore <hi>contingently,</hi> which connexion we have formerly juſtified. This being well underſtood, will inſtruct us not onely that it may be ſo, but alſo that it muſt be ſo. That God being the <hi>neceſſary cauſe</hi> of all good things, yet all ſuch things are not <hi>ne<g ref="char:EOLhyphen"/>ceſſary effects</hi> of Him. For example, It is impoſſible that man ſhould do any thing without God, therefore God is a cauſe <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi>
+               <pb n="23" facs="tcp:32623:14"/>to the being of all things effected by him; yet becauſe ma<g ref="char:EOLhyphen"/>ny things done by the <hi>free choice</hi> of man, might as well have been omitted (God no ways conſtraining him to them) theſe are not <hi>neceſſary effects</hi> of God. The Reaſon of this is, becauſe God hath decreed that man ſhould work <hi>voluntarily,</hi> having liberty to do as well one thing as another, yet ſo that God giveth him the <hi>ſtrength</hi> to do whatſoever he <hi>chooſeth</hi> to do, and <hi>ability</hi> to <hi>chooſe</hi> what he will without limitation of his choice,<note place="margin">☜</note> (for this were elſe) to take it away, and to make man an <hi>involuntary</hi> Agent.) For example, God hath given thee <hi>ſtrength</hi> of body; he hath given thee alſo <hi>ability to chooſe</hi> in what exerciſe thou wilt employ it; thou chooſeſt to <hi>Ring</hi> or <hi>Dance;</hi> God then the Author of thy ſtrength is the <hi>chief</hi> cauſe of theſe exerciſes, yet ſo, as they are <hi>contingent</hi> in reſpect of Him, becauſe thou mighteſt have omitted them hadſt thou pleaſed. By this we may plainly ſee, how God is the <hi>principal cauſe</hi> of all things of which he is <hi>capable</hi> to be a cauſe; and yet many things are <hi>contingent</hi> in reſpect of him. This being cleared, we may with more facility conceive, how and in what ſenſe God is the cauſe of all we do, and yet we onely the cauſe of ſin.</p>
+            <p>God ſuſtains us when we are about our ſins; even then, <hi>in Him we live, and move, and have our being,</hi> as well as when we are better buſied. God giveth that <hi>ſtrength</hi> by which we com<g ref="char:EOLhyphen"/>mit any ſin, yet becauſe he doth not <hi>neceſſitate</hi> or <hi>incline</hi> unto it, but we of our ſelves <hi>abuſe</hi> it to wickedneſs, God hath ſtill the part of a <hi>Creator,</hi> we onely are <hi>ſinful.</hi> An example will make this clear, Suppoſe a King delivereth to his Subject <hi>Men, Weapons, Mony,</hi> and <hi>Warlike proviſion,</hi> that he may fight for his Honor againſt his enemies; his Subject proves a <hi>Traitor,</hi> and uſeth all his <hi>Soveraigns</hi> ſtrength againſt himſelf. His Soveraign here is a <hi>cauſe</hi> that he hath the <hi>command,</hi> and doth the <hi>Office</hi> of a Captain, but he is no cauſe of his <hi>Treachery,</hi> the <hi>offence</hi> is onely the <hi>Captains,</hi> and the <hi>wrong</hi> is onely the <hi>Soveraigns.</hi> This is juſt the caſe between God and us; God hath given us many excellent <hi>faculties</hi> both of <hi>body</hi> and <hi>ſoul,</hi> which he <hi>intended</hi> we ſhould uſe to his <hi>Glory,</hi> in obedience to his commandements, and <hi>reſiſt</hi> His and our enemy the Devil; we moſt <hi>traiterouſly</hi> ſiding with <hi>Satan,</hi> have <hi>abuſed</hi> His gifts to His Diſhonor; God did the part of a <hi>Creator,</hi> we of <hi>Rebels.</hi> A man lives <hi>intemperately,</hi> God gave him not ſtrength
+<pb n="24" facs="tcp:32623:15"/>to this purpoſe, he <hi>neceſſitated</hi> not the man to this intemperancy: Man therefore onely ſinned, God is diſhonoured. The King made his Subject <hi>able</hi> to rebel againſt him, by delivering his <hi>military</hi> furniture unto him; the verier <hi>miſcreant</hi> he that did rebell againſt him. So God made <hi>Adam</hi> indeed <hi>able</hi> to ſin, but he never <hi>intend<g ref="char:EOLhyphen"/>ed</hi> that he ſhould ſin with that ability. God then is the <hi>cauſe</hi> of all thoſe things in which we ſin, and yet whatſoever he doth is ex<g ref="char:EOLhyphen"/>ceeding good; he is not the <hi>cauſe</hi> that we <hi>intend</hi> any ſin, but the <hi>cauſe</hi> that we are <hi>able</hi> to commit thoſe ſins we intend; and yet he <hi>intended</hi> not our abilities for ſin, but for his Service. Of all our good actions he is the <hi>firſt</hi> cauſe, we are the <hi>ſecond:</hi> of all our ſins we are the <hi>proper</hi> cauſe, he is onely the <hi>Conditio ſine qua non.</hi>
+            </p>
+            <p>But here ſome man may ſay, That <hi>choice</hi> or <hi>election</hi> of an <hi>un<g ref="char:EOLhyphen"/>lawful</hi> object (upon which we miſplace our actions) is that which maketh us ſinners; now this being an act of our <hi>will,</hi> it muſt ſuppoſe alſo the <hi>concourſe</hi> of God; how then doth our opinion clear the point? The ſame Anſwer abundantly ſufficeth; God made <hi>Adam</hi> able to be <hi>willing</hi> to ſin, but he made him not to <hi>will</hi> ſin: God ſet before him <hi>life and death,</hi> that he did <hi>chooſe</hi> death it was by the <hi>ſtrength</hi> of will given him of God; but God did not <hi>bind</hi> him to <hi>chooſe</hi> death, for that were (a <hi>contradiction</hi>) a <hi>neceſſi<g ref="char:EOLhyphen"/>tated</hi> choice.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>ult.</label> Briefly, whatſoever we chooſe, we do it by the power by which we are <hi>voluntary Agents,</hi> yet if we chooſe death, God is not to be blamed, (for he made us <hi>voluntary</hi>) and therefore it was as <hi>poſſible</hi> for us to have <hi>choſen</hi> life. If the nature of a <hi>voluntary</hi> Agent be well obſerved, this point will be moſt evident.</p>
+            <p>The laſt objection is this, Gods <hi>fore-knowledge</hi> of all <hi>futures</hi> is moſt <hi>infallible</hi> and <hi>neceſſary: Ergo,</hi> All <hi>futures</hi> in reſpect of him fall out <hi>neceſſarily,</hi> otherwiſe it is poſſible God may be <hi>deceived;</hi> yea, if many things fall out <hi>contingently,</hi> Gods <hi>fore-knowledge</hi> of them can be but <hi>contingent,</hi> depending after a ſort on mans <hi>free-will.</hi>
+            </p>
+            <p>This Argument is <hi>plauſible</hi> at the firſt view, but if it be touched it falls to ſhatters. It is one thing to know that a thing will <hi>neceſ<g ref="char:EOLhyphen"/>ſarily be done,</hi> and another to <hi>know neceſſarily</hi> that a thing will be done. God doth <hi>neceſſarily and certainly foreknow</hi> all that will be done, but he doth not know that thoſe things which ſhall be done <hi>voluntarily</hi> will be done <hi>neceſſarily:</hi> he knoweth that
+<pb n="25" facs="tcp:32623:15"/>they will be done, but he knoweth withall, that they might have fallen out otherwiſe, for ought he had ordered to the contrary. So God <hi>neceſſarily</hi> knew that <hi>Adam</hi> would fall, and yet he knew that he would not fall <hi>neceſſarily,</hi> for it was as poſſible for him not to have fallen. It was the <hi>antient</hi> (and is ſtill the true) opinion, That Gods <hi>Praeſcience</hi> is not the cauſe of <hi>Events;</hi> he <hi>fore-knoweth</hi> all things becauſe they will be done, things are not done becauſe he <hi>fore-knoweth</hi> them. The <hi>infalli<g ref="char:EOLhyphen"/>bility</hi> of his knowledge conſiſteth not in the <hi>immutability</hi> of his <hi>decreee,</hi> but in the <hi>prerogative</hi> of his <hi>Deity;</hi> it is impoſſible therefore that any man by his <hi>voluntary</hi> manner of working ſhould <hi>delude</hi> Gods <hi>fore-ſight;</hi> not becauſe God doth <hi>neceſſitate</hi> his will to <hi>certain effects,</hi> (for this were indeed to take it away) but becauſe his <hi>fore-knowledge</hi> is <hi>infinite.</hi>
+            </p>
+            <p>Let our hearts therefore be never ſo full of <hi>Mazes</hi> and <hi>Meanders,</hi> turning and winding, yet <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (to uſe the <hi>Poets</hi> language) the <hi>al-ſeeing</hi> Eye of God cannot but eſpy them long before, not becauſe he himſelf <hi>contrived</hi> them (for then it were no wonder if he were <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) but becauſe to Him (who is every way <hi>infinite</hi>) all things cannot be but <hi>preſent</hi> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is the ſigni<g ref="char:EOLhyphen"/>ficant word of the <hi>Author</hi> to the <hi>Hebrews,</hi> ſignifying <hi>open,</hi> by a <hi>meta<g ref="char:EOLhyphen"/>phor</hi> or ſimilitude drawn from a word that ſignifies, <hi>having the faces laid upwards,</hi> becauſe ſuch as lye <hi>ſo</hi> have their <hi>face</hi> expoſed to the ſight of all men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books Printed or ſold by <hi>William Leake,</hi> at the ſign of the Crown in <hi>Fleetſtreet,</hi> between the two Temple-gates.</head>
+            <list>
+               <item>
+                  <hi>YOrks</hi> Heraldry, <hi>fol.</hi>
+               </item>
+               <item>A bible of a very fair largo Ro<g ref="char:EOLhyphen"/>man Letter. 4.</item>
+               <item>
+                  <hi>Orlando Furioſo.</hi> fol.</item>
+               <item>
+                  <hi>Callis</hi> learned readings on the Statute, 21 H. 8. Cap. 5. of Sewers.</item>
+               <item>
+                  <hi>Perkins</hi> on the Laws of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Wilkinſons</hi> Office of Sheriffs. 8.</item>
+               <item>The book of Fees.</item>
+               <item>
+                  <hi>Parſons</hi> Law. 8.</item>
+               <item>Mirror of Juſtice. 8.</item>
+               <item>Topicks in the Laws of <hi>England.</hi> 8.</item>
+               <item>
+                  <hi>Skene de ſignificatione verbarum.</hi> 4.</item>
+               <item>
+                  <hi>Delamans</hi> uſe of the Horizontal Qua<g ref="char:EOLhyphen"/>drant.</item>
+               <item>Mathematical Recreations.</item>
+               <item>
+                  <hi>Wilbey</hi> ſecond Set of Muſick, 3, 4, 5, and 6 parts. 4.</item>
+               <item>
+                  <hi>Corderius</hi> in Engliſh. 8.</item>
+               <item>Dr. <hi>Pulk</hi>'s Meteors.</item>
+               <pb facs="tcp:32623:16"/>
+               <item>
+                  <hi>Malthus</hi> Artificial Fireworks.</item>
+               <item>
+                  <hi>Nyes</hi> Gunnery and Fireworks.</item>
+               <item>
+                  <hi>Cato Major</hi> with Annotations. by <hi>Willi<g ref="char:EOLhyphen"/>am Austin</hi> Eſquire.</item>
+               <item>
+                  <hi>Mel Heliconium,</hi> by <hi>Alex. Roſs.</hi> 8.</item>
+               <item>
+                  <hi>Noſce te ipſum,</hi> by Sir <hi>John Davis.</hi> 8.</item>
+               <item>Animadverſions on <hi>Lillies</hi> Grammer. 8.</item>
+               <item>The Hiſtory of <hi>Vienna</hi> and <hi>Paris.</hi>
+               </item>
+               <item>The Hiſtory of <hi>Lazarillo de Tormes.</hi>
+               </item>
+               <item>
+                  <hi>Hero</hi> and <hi>Leander,</hi> by <hi>George Chapman,</hi> and <hi>Chriſtopher Marlow.</hi>
+               </item>
+               <item>
+                  <hi>Mayer</hi>'s Catechiſm 8.</item>
+               <item>
+                  <hi>Exercitatio Scholaſtica</hi>
+               </item>
+               <item>Biſhop <hi>Andrews</hi> Sermons</item>
+               <item>
+                  <hi>Adams</hi> on <hi>Peter</hi>
+               </item>
+               <item>Poſing of the Accidence</item>
+               <item>
+                  <hi>Amadis de Gaule</hi>
+               </item>
+               <item>
+                  <hi>Guillims</hi> Heraldry. <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Herberts</hi> Travels. <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Boccas</hi> Tables</item>
+               <item>Man become guilty, by <hi>John Francis Se<g ref="char:EOLhyphen"/>nalt,</hi> and Engliſhed by <hi>Henry</hi> Earl of <hi>Monmoth.</hi>
+               </item>
+               <item>The Idiot in four books, firſt, and ſecond, of Wiſdom, third of the mind; fourth, of the experience of the ballance.</item>
+               <item>The Life and Raign of <hi>Hen.</hi> 8. by the Lord <hi>Herbert.</hi> fol.</item>
+               <item>
+                  <hi>Aula Lucis,</hi> or the houſe of Light.</item>
+               <item>
+                  <hi>The Fort-Royal</hi> of holy Scriptures, or a new <hi>Concordance</hi> of the chief heads of Scripture, by <hi>J. H.</hi>
+               </item>
+               <item>A <hi>Tragoedy</hi> written by the moſt learned <hi>Hugo Grotius,</hi> called CHRISTUS PATIENS) and tranſlated into En<g ref="char:EOLhyphen"/>gliſh by <hi>George Sandys.</hi>
+               </item>
+               <item>The <hi>Mount</hi> of <hi>Olives,</hi> or <hi>Solitary Devoti<g ref="char:EOLhyphen"/>ons,</hi> by <hi>Henry Vanghan Sylurist,</hi> with an excellent Diſcourſe of the bleſſed e<g ref="char:EOLhyphen"/>ſtate of <hi>Man in Glory:</hi> written by the moſt Reverend and holy Father <hi>An<g ref="char:EOLhyphen"/>ſelm</hi> Arch biſhop of <hi>Canterbury.</hi>
+               </item>
+               <item>The deſcription and uſe of the double <hi>Horizontal Dyall,</hi> by <hi>W.O.</hi> whereunto is added the deſcription of the Gene<g ref="char:EOLhyphen"/>ral Horological Ring.</item>
+               <item>The Rights of the People concerning <hi>Impoſitions,</hi> ſtated in a learned Argu<g ref="char:EOLhyphen"/>ment, by a late eminent Judge of this Nation.</item>
+               <item>
+                  <hi>France</hi> painted out to the life, the ſecond Edition.</item>
+               <item>The Garden of <hi>Eden,</hi> both parts; or an accurate deſcription of Flowers, and Fruits now growing in <hi>England,</hi> by Sir <hi>Hugh Plat,</hi> Knight.</item>
+               <item>
+                  <hi>Exercitatio Scholastica.</hi>
+               </item>
+               <item>Book of Martyrs. <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Willet</hi> on <hi>Geneſis</hi> and <hi>Exodus.</hi>
+               </item>
+            </list>
+            <div type="part">
+               <head>PLAYES.</head>
+               <list>
+                  <item>The Wedding.</item>
+                  <item>Philaſter.</item>
+                  <item>The Hollander.</item>
+                  <item>The Merchant of <hi>Venice.</hi>
+                  </item>
+                  <item>The ſtrange diſcovery.</item>
+                  <item>Maids Tragedy.</item>
+                  <item>King and no King.</item>
+                  <item>
+                     <hi>Othello</hi> the Moor of <hi>Venice.</hi>
+                  </item>
+                  <item>The grateful ſervant.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Theſe Books are lately come forth, and ſold by <hi>Will. Leak</hi> at the <hi>Crown</hi> in <hi>Fleet-ſtreet.</hi>
+               </head>
+               <list>
+                  <item>The <hi>Solemne League and Covenant, Arraigned and Condemned,</hi> by the ſentence of the Divines of <hi>London</hi> and <hi>Cheſhire,</hi> &amp;c. by <hi>Lawrence Womack,</hi> now D.D. and Arch-deacon of <hi>Suffolk.</hi>
+                  </item>
+                  <item>
+                     <hi>Amorea,</hi> the <hi>Loſt Lover,</hi> or the <hi>Idea o Love and Misfortune,</hi> being never before printed, written by <hi>Patherick Jenlyn,</hi> Gent.</item>
+                  <item>An exact Abridgment of the Records in the Tower of <hi>London,</hi> from the Raign of K. <hi>Edward</hi> the ſecond, to K. <hi>Richard</hi> the third, of all the Par<g ref="char:EOLhyphen"/>liaments holden in each Kings raign, and the ſeveral Acts in every Parliament, by Sir <hi>Robert Cotton,</hi> Kt. and Baronet.</item>
+                  <item>An Apology for the Diſcipline of the antient Church, intendep eſpecally for that of our Mother the Church of <hi>England,</hi> in anſwer to the <hi>Admonitory Letter</hi> lately publiſhed by <hi>William Nicolſon,</hi> Arch-Deacon of <hi>Brecon,</hi> and now Lord Biſhop of <hi>Glocestet.</hi>
+                  </item>
+                  <item>
+                     <hi>Le Prince d' Amour,</hi> or the Prince of Love, Wa collection of ſeveral In<g ref="char:EOLhyphen"/>genious Poems and Songs, by the Wits of the Age. 8.</item>
+                  <item>A learned Expoſition of the Apoſtles Creed, delivered in ſeveral Ser<g ref="char:EOLhyphen"/>mons by <hi>William Nicholſon</hi> Arch<g ref="char:EOLhyphen"/>deacon of <hi>Brecon,</hi> and now Lord</item>
+                  <item>Biſhop of <hi>Gloceſter.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
